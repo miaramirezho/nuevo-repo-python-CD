@@ -12,6 +12,8 @@ En esta demostración haré lo siguiente:
 
 ## Este es un subtitulo
 
+Esta es otra actualización desde MASTER
+
 ## Este es otro subtitulo
 
 Esta es una modificación desde el MASTER
