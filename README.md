@@ -14,6 +14,8 @@ En esta demostración haré lo siguiente:
 
 ## Este es otro subtitulo
 
+Esta es una modificación desde el MASTER
+
 ## Este es el subtitulo final
 
 Haga clic [aqui](http://www.google.com) para ir a google
